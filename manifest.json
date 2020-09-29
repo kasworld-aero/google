@@ -1,6 +1,6 @@
 {
-	"name": "Kasworld-Aero ",
-	"short_name": "KASWORLD",
+	"name": "Crome",
+	"short_name": "Crome",
 	"description": "Kasworld-Aero Aviation Updates and Flight Informatins",
 	"start_url": "./aero.html?ref=home",
 	"display": "standalone",
@@ -9,12 +9,12 @@
 	"theme_color": "#ffff",
 	"icons": [	
         {
-			"src": "https://3.bp.blogspot.com/-LWBcmlIv6HY/XwlEqx7LUMI/AAAAAAAAFNg/hFI24yPnk6EsQqjSTMHCKAvlK2HApklDACPcBGAsYHg/s192/K-A-Logo.png.png",
+			"src": "https://1.bp.blogspot.com/-P-YDjXfRaGU/X3OQJ1ZAMqI/AAAAAAAAFVI/dZWvw5IDGkkRoyOAv7pUNJmv3NINpP64QCLcBGAsYHQ/s192/crome.png",
 			"type": "image/png",
 			"sizes": "192x192"
 		},
 		{
-			"src": "https://3.bp.blogspot.com/-LWBcmlIv6HY/XwlEqx7LUMI/AAAAAAAAFNg/hFI24yPnk6EsQqjSTMHCKAvlK2HApklDACPcBGAsYHg/s512/K-A-Logo.png.png",
+			"src": "https://1.bp.blogspot.com/-P-YDjXfRaGU/X3OQJ1ZAMqI/AAAAAAAAFVI/dZWvw5IDGkkRoyOAv7pUNJmv3NINpP64QCLcBGAsYHQ/s512/crome.png",
 			"type": "image/png",
 			"sizes": "512x512"
 		}	
